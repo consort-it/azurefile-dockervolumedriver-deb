@@ -1,0 +1,6 @@
+# Environment file for azurefile-dockervolumedriver.service
+
+AZURE_STORAGE_ACCOUNT="please-set-your-account"
+AZURE_STORAGE_ACCOUNT_KEY="please-set-your-key"
+
+AF_OPTS="--remove-shares"
